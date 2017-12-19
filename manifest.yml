@@ -3,5 +3,5 @@ applications:
 - name: AlphaOfficeProductCatalogUI
   memory: 512M
   instances: 1
-  random-route: true
+  url: alphaofficeproductcatalog.local.pcfdev.io
   path: .

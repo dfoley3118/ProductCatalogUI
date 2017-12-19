@@ -5,7 +5,7 @@ CHANGE THE URLS BELOW FOR THE WORKSHOP - THESE URLS MUST POINT TO THE MICROSERVI
 *********************************************************/
 
 // URL for the MySQL database REST service
-var dbServiceURL = "http://alphaofficemysqlrest-detached-anthropophagy.local.pcfdev.io/products";
+var dbServiceURL = "http://alphaofficemysqlrest.local.pcfdev.io/products";
 
 // URL for the Twitter REST service
 var tweetServiceBaseURL = "https://notactivated";
