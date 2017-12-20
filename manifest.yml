@@ -3,5 +3,5 @@ applications:
 - name: AlphaOfficeProductCatalogUI
   memory: 512M
   instances: 1
-  url: alphaofficeproductcatalog.local.pcfdev.io
+  url: alphaofficeproductcatalogui.local.pcfdev.io
   path: .
